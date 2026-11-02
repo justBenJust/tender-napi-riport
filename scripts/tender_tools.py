@@ -2,7 +2,6 @@
 """Manual exports, Word screenshots and Claude web results -> normalized JSON.
 Python 3.10+; openpyxl for XLSX and tzdata for Windows time zones.
 """
-from __future__ import annotations
 import argparse
 import datetime as dt
 import json
@@ -50,7 +49,8 @@ def write_ted_web_prompt(path, start, end, profile=None):
     values={'{{START}}':begin.isoformat(),'{{END}}':finish.isoformat(),
             '{{DATES}}':f'{begin.date().isoformat()} – {finish.date().isoformat()}',
             '{{SKILL_ROOT}}':'<skill>',
-            '{{PROFILE}}':Path(profile or root/'references/company_profile.md').read_text(encoding='utf-8')}
+            # The profile is read in step 1 of SKILL.md; only point to it instead of repeating ~10 KB.
+            '{{PROFILE}}':f'`{Path(profile).name}`' if profile else '`references/company_profile.md`'}
     for token,value in values.items():template=template.replace(token,value)
     path=Path(path);path.parent.mkdir(parents=True,exist_ok=True)
     path.write_text(template,encoding='utf-8')

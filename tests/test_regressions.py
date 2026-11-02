@@ -271,7 +271,8 @@ def test_ted_web_prompt_uses_report_days_and_profile(tmp_path):
     # DST ended on 25 October: each calendar day keeps its own Budapest UTC offset.
     assert '2026-10-24T00:00:00+02:00' in prompt
     assert '2026-10-25T23:59:59+01:00' in prompt
-    assert 'Fiktív profil: LAN és NAV kapcsolók' in prompt
+    # The profile is referenced, not copied: Claude has already read it in step 1.
+    assert '`profile.md`' in prompt and 'Fiktív profil' not in prompt
     assert '{{' not in prompt and '--ted-web-input' in prompt and 'web_search' in prompt
     assert 'C:/Users/' not in prompt
 
