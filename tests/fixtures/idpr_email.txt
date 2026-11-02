@@ -1,0 +1,25 @@
+FIKTÍV TESZTLEVÉL – nem valódi értesítés, ne küldd el.
+
+Message-ID: fiktiv-email-001
+From: ertesito@example.org
+Mailbox: tender-fiok@example.org
+Folder: Tender/IDPR
+Received: 2026-10-30T08:15:00+01:00
+Subject: FIKTÍV IDPR versenyújranyitás
+
+Beszerzési rendszer: DKÜ / IDPR
+Beszerzés azonosítója: FIKTIV-IDPR-001
+Ajánlatkérő: Fiktív intézmény
+Ajánlatkérő nevében eljár: Fiktív Központi Beszerző
+Tárgy: Vállalati hálózati eszközök beszerzése
+Leírás: Switchek szállítása és konfigurálása.
+Hirdetménytípus: Ajánlati felhívás
+Eljárás típusa: Versenyújranyitás
+Ajánlattételi határidő: 2026-11-12 10:00
+Teljesítési határidő: 2027-02-28
+Becsült beszerzési érték: 48000000 HUF
+KM: FIKTIV-KM-01
+Státusz:
+Beszerzés URL-je: https://example.org/fictional/idpr/001
+
+Tender-közzétételi dátumot ez a levél nem közöl.

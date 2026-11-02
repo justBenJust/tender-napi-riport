@@ -1,0 +1,7 @@
+{
+  "identifier": ["Saját hirdetményazonosító", "Iktatószám"],
+  "buyer": ["Beszerző intézmény"],
+  "title": ["Beszerzés megnevezése"],
+  "publication_date": ["Publikálás dátuma"],
+  "notice_type": ["Hirdetmény kategóriája"]
+}

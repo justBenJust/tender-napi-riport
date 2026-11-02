@@ -1,0 +1,895 @@
+[
+  {
+    "filename": "IDPR_aktiv.png",
+    "title": "IDPR – Aktív felhívások / versenyújranyitások",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Ajánlatkérő nevében eljár",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "KM",
+      "Eljárás típusa",
+      "Becsült érték",
+      "Számlakiállító szállító",
+      "Státusz",
+      "Megjegyzés"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Fiktív Központi Beszerző",
+        "Aktív hálózati eszközök és LAN-infrastruktúra bővítése",
+        "2026-11-12 10:00",
+        "DKM-TESZT-2026",
+        "Versenyújranyitás",
+        "48000000",
+        "",
+        "",
+        "FIKTÍV TESZTADAT – nem valódi hirdetmény"
+      ],
+      [
+        "2.",
+        "Fiktív Biztonsági Központ",
+        "Fiktív Központi Beszerző",
+        "Vállalati tűzfalak és biztonsági licencek",
+        "2026-11-16 12:00",
+        "DKM-TESZT-2026",
+        "Nyílt eljárás",
+        "22500000",
+        "",
+        "",
+        "FIKTÍV TESZTADAT – nem valódi hirdetmény"
+      ],
+      [
+        "3.",
+        "Fiktív Városi Intézmény",
+        "Fiktív Központi Beszerző",
+        "Irodai székek és irattároló szekrények",
+        "2026-11-19 10:00",
+        "DKM-TESZT-2026",
+        "Nyílt eljárás",
+        "6500000",
+        "",
+        "",
+        "FIKTÍV TESZTADAT – nem valódi hirdetmény"
+      ],
+      [
+        "4.",
+        "Fiktív Régi Hálózat Kft.",
+        "Fiktív Központi Beszerző",
+        "Lejárt switch-beszerzés",
+        "2026-10-26 10:00",
+        "DKM-TESZT-2026",
+        "Versenyújranyitás",
+        "12000000",
+        "",
+        "",
+        "FIKTÍV TESZTADAT – nem valódi hirdetmény"
+      ],
+      [
+        "5.",
+        "Fiktív Hálózati Üzemeltető",
+        "Fiktív Központi Beszerző",
+        "Routing-eszközök és hálózati támogatás",
+        "",
+        "DKM-TESZT-2026",
+        "Nyílt eljárás",
+        "",
+        "",
+        "",
+        "FIKTÍV TESZTADAT – nem valódi hirdetmény"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "IDPR_indikativ.png",
+    "title": "IDPR – Indikatív ajánlatkérések / piaci konzultáció",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "KM",
+      "Eljárás típusa",
+      "Státusz"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Tervezett vállalati switching-korszerűsítés",
+        "2026-11-05 10:00",
+        "DKM-TESZT-2026",
+        "indikatív",
+        ""
+      ],
+      [
+        "2.",
+        "Fiktív Iskolafenntartó",
+        "Informatikai eszközök beszerzésének előkészítése",
+        "2026-11-04 14:00",
+        "DKM-TESZT-2026",
+        "Előzetes piaci konzultáció",
+        ""
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "IDPR_torteneti.png",
+    "title": "IDPR – Eredmény, módosítás és ismeretlen típus",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "KM",
+      "Eljárás típusa",
+      "Státusz"
+    ],
+    "rows": [
+      [
+        "1.",
+        "Fiktív Biztonsági Központ",
+        "Tűzfalak beszerzése – az eljárás eredménye",
+        "",
+        "DKM-TESZT-2026",
+        "Eredményhirdetés",
+        "Lezárt"
+      ],
+      [
+        "2.",
+        "Fiktív Hálózati Intézet",
+        "LAN-karbantartási szerződés módosítása",
+        "",
+        "DKM-TESZT-2026",
+        "Szerződésmódosítás",
+        ""
+      ],
+      [
+        "3.",
+        "Fiktív Kutatóintézet",
+        "Infrastruktúra-fejlesztési elképzelés",
+        "",
+        "DKM-TESZT-2026",
+        "",
+        ""
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "EKR_aktiv.png",
+    "title": "EKR – Aktív felhívások / versenyújranyitások",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Aktív hálózati eszközök és LAN-infrastruktúra bővítése",
+        "2026-11-12 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "2.",
+        "Fiktív Biztonsági Központ",
+        "Vállalati tűzfalak és biztonsági licencek",
+        "2026-11-16 12:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "3.",
+        "Fiktív Városi Intézmény",
+        "Irodai székek és irattároló szekrények",
+        "2026-11-19 10:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "4.",
+        "Fiktív Régi Hálózat Kft.",
+        "Lejárt switch-beszerzés",
+        "2026-10-26 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "5.",
+        "Fiktív Hálózati Üzemeltető",
+        "Routing-eszközök és hálózati támogatás",
+        "",
+        "Nyílt eljárás"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "EKR_indikativ.png",
+    "title": "EKR – Indikatív ajánlatkérések / piaci konzultáció",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Tervezett vállalati switching-korszerűsítés",
+        "2026-11-05 10:00",
+        "indikatív"
+      ],
+      [
+        "2.",
+        "Fiktív Iskolafenntartó",
+        "Informatikai eszközök beszerzésének előkészítése",
+        "2026-11-04 14:00",
+        "Előzetes piaci konzultáció"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "EKR_torteneti.png",
+    "title": "EKR – Eredmény, módosítás és ismeretlen típus",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "Fiktív Biztonsági Központ",
+        "Tűzfalak beszerzése – az eljárás eredménye",
+        "",
+        "Eredményhirdetés"
+      ],
+      [
+        "2.",
+        "Fiktív Hálózati Intézet",
+        "LAN-karbantartási szerződés módosítása",
+        "",
+        "Szerződésmódosítás"
+      ],
+      [
+        "3.",
+        "Fiktív Kutatóintézet",
+        "Infrastruktúra-fejlesztési elképzelés",
+        "",
+        ""
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "TED_aktiv.png",
+    "title": "TED – Aktív felhívások / versenyújranyitások",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Aktív hálózati eszközök és LAN-infrastruktúra bővítése",
+        "2026-11-12 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "2.",
+        "Fiktív Biztonsági Központ",
+        "Vállalati tűzfalak és biztonsági licencek",
+        "2026-11-16 12:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "3.",
+        "Fiktív Városi Intézmény",
+        "Irodai székek és irattároló szekrények",
+        "2026-11-19 10:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "4.",
+        "Fiktív Régi Hálózat Kft.",
+        "Lejárt switch-beszerzés",
+        "2026-10-26 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "5.",
+        "Fiktív Hálózati Üzemeltető",
+        "Routing-eszközök és hálózati támogatás",
+        "",
+        "Nyílt eljárás"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "TED_indikativ.png",
+    "title": "TED – Indikatív ajánlatkérések / piaci konzultáció",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Tervezett vállalati switching-korszerűsítés",
+        "2026-11-05 10:00",
+        "indikatív"
+      ],
+      [
+        "2.",
+        "Fiktív Iskolafenntartó",
+        "Informatikai eszközök beszerzésének előkészítése",
+        "2026-11-04 14:00",
+        "Előzetes piaci konzultáció"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "TED_torteneti.png",
+    "title": "TED – Eredmény, módosítás és ismeretlen típus",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "Fiktív Biztonsági Központ",
+        "Tűzfalak beszerzése – az eljárás eredménye",
+        "",
+        "Eredményhirdetés"
+      ],
+      [
+        "2.",
+        "Fiktív Hálózati Intézet",
+        "LAN-karbantartási szerződés módosítása",
+        "",
+        "Szerződésmódosítás"
+      ],
+      [
+        "3.",
+        "Fiktív Kutatóintézet",
+        "Infrastruktúra-fejlesztési elképzelés",
+        "",
+        ""
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "KEF_aktiv.png",
+    "title": "KEF – Aktív felhívások / versenyújranyitások",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Aktív hálózati eszközök és LAN-infrastruktúra bővítése",
+        "2026-11-12 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "2.",
+        "Fiktív Biztonsági Központ",
+        "Vállalati tűzfalak és biztonsági licencek",
+        "2026-11-16 12:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "3.",
+        "Fiktív Városi Intézmény",
+        "Irodai székek és irattároló szekrények",
+        "2026-11-19 10:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "4.",
+        "Fiktív Régi Hálózat Kft.",
+        "Lejárt switch-beszerzés",
+        "2026-10-26 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "5.",
+        "Fiktív Hálózati Üzemeltető",
+        "Routing-eszközök és hálózati támogatás",
+        "",
+        "Nyílt eljárás"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "KEF_indikativ.png",
+    "title": "KEF – Indikatív ajánlatkérések / piaci konzultáció",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Tervezett vállalati switching-korszerűsítés",
+        "2026-11-05 10:00",
+        "indikatív"
+      ],
+      [
+        "2.",
+        "Fiktív Iskolafenntartó",
+        "Informatikai eszközök beszerzésének előkészítése",
+        "2026-11-04 14:00",
+        "Előzetes piaci konzultáció"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "KEF_torteneti.png",
+    "title": "KEF – Eredmény, módosítás és ismeretlen típus",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "Fiktív Biztonsági Központ",
+        "Tűzfalak beszerzése – az eljárás eredménye",
+        "",
+        "Eredményhirdetés"
+      ],
+      [
+        "2.",
+        "Fiktív Hálózati Intézet",
+        "LAN-karbantartási szerződés módosítása",
+        "",
+        "Szerződésmódosítás"
+      ],
+      [
+        "3.",
+        "Fiktív Kutatóintézet",
+        "Infrastruktúra-fejlesztési elképzelés",
+        "",
+        ""
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "ARIBA_aktiv.png",
+    "title": "ARIBA – Aktív felhívások / versenyújranyitások",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Aktív hálózati eszközök és LAN-infrastruktúra bővítése",
+        "2026-11-12 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "2.",
+        "Fiktív Biztonsági Központ",
+        "Vállalati tűzfalak és biztonsági licencek",
+        "2026-11-16 12:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "3.",
+        "Fiktív Városi Intézmény",
+        "Irodai székek és irattároló szekrények",
+        "2026-11-19 10:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "4.",
+        "Fiktív Régi Hálózat Kft.",
+        "Lejárt switch-beszerzés",
+        "2026-10-26 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "5.",
+        "Fiktív Hálózati Üzemeltető",
+        "Routing-eszközök és hálózati támogatás",
+        "",
+        "Nyílt eljárás"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "ARIBA_indikativ.png",
+    "title": "ARIBA – Indikatív ajánlatkérések / piaci konzultáció",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Tervezett vállalati switching-korszerűsítés",
+        "2026-11-05 10:00",
+        "indikatív"
+      ],
+      [
+        "2.",
+        "Fiktív Iskolafenntartó",
+        "Informatikai eszközök beszerzésének előkészítése",
+        "2026-11-04 14:00",
+        "Előzetes piaci konzultáció"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "ARIBA_torteneti.png",
+    "title": "ARIBA – Eredmény, módosítás és ismeretlen típus",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "Fiktív Biztonsági Központ",
+        "Tűzfalak beszerzése – az eljárás eredménye",
+        "",
+        "Eredményhirdetés"
+      ],
+      [
+        "2.",
+        "Fiktív Hálózati Intézet",
+        "LAN-karbantartási szerződés módosítása",
+        "",
+        "Szerződésmódosítás"
+      ],
+      [
+        "3.",
+        "Fiktív Kutatóintézet",
+        "Infrastruktúra-fejlesztési elképzelés",
+        "",
+        ""
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "FLUENTA_aktiv.png",
+    "title": "FLUENTA – Aktív felhívások / versenyújranyitások",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Aktív hálózati eszközök és LAN-infrastruktúra bővítése",
+        "2026-11-12 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "2.",
+        "Fiktív Biztonsági Központ",
+        "Vállalati tűzfalak és biztonsági licencek",
+        "2026-11-16 12:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "3.",
+        "Fiktív Városi Intézmény",
+        "Irodai székek és irattároló szekrények",
+        "2026-11-19 10:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "4.",
+        "Fiktív Régi Hálózat Kft.",
+        "Lejárt switch-beszerzés",
+        "2026-10-26 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "5.",
+        "Fiktív Hálózati Üzemeltető",
+        "Routing-eszközök és hálózati támogatás",
+        "",
+        "Nyílt eljárás"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "FLUENTA_indikativ.png",
+    "title": "FLUENTA – Indikatív ajánlatkérések / piaci konzultáció",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Tervezett vállalati switching-korszerűsítés",
+        "2026-11-05 10:00",
+        "indikatív"
+      ],
+      [
+        "2.",
+        "Fiktív Iskolafenntartó",
+        "Informatikai eszközök beszerzésének előkészítése",
+        "2026-11-04 14:00",
+        "Előzetes piaci konzultáció"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "FLUENTA_torteneti.png",
+    "title": "FLUENTA – Eredmény, módosítás és ismeretlen típus",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "Fiktív Biztonsági Központ",
+        "Tűzfalak beszerzése – az eljárás eredménye",
+        "",
+        "Eredményhirdetés"
+      ],
+      [
+        "2.",
+        "Fiktív Hálózati Intézet",
+        "LAN-karbantartási szerződés módosítása",
+        "",
+        "Szerződésmódosítás"
+      ],
+      [
+        "3.",
+        "Fiktív Kutatóintézet",
+        "Infrastruktúra-fejlesztési elképzelés",
+        "",
+        ""
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "UNIVERZAL_aktiv.png",
+    "title": "UNIVERZAL – Aktív felhívások / versenyújranyitások",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Aktív hálózati eszközök és LAN-infrastruktúra bővítése",
+        "2026-11-12 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "2.",
+        "Fiktív Biztonsági Központ",
+        "Vállalati tűzfalak és biztonsági licencek",
+        "2026-11-16 12:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "3.",
+        "Fiktív Városi Intézmény",
+        "Irodai székek és irattároló szekrények",
+        "2026-11-19 10:00",
+        "Nyílt eljárás"
+      ],
+      [
+        "4.",
+        "Fiktív Régi Hálózat Kft.",
+        "Lejárt switch-beszerzés",
+        "2026-10-26 10:00",
+        "Versenyújranyitás"
+      ],
+      [
+        "5.",
+        "Fiktív Hálózati Üzemeltető",
+        "Routing-eszközök és hálózati támogatás",
+        "",
+        "Nyílt eljárás"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "UNIVERZAL_indikativ.png",
+    "title": "UNIVERZAL – Indikatív ajánlatkérések / piaci konzultáció",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Tervezett vállalati switching-korszerűsítés",
+        "2026-11-05 10:00",
+        "indikatív"
+      ],
+      [
+        "2.",
+        "Fiktív Iskolafenntartó",
+        "Informatikai eszközök beszerzésének előkészítése",
+        "2026-11-04 14:00",
+        "Előzetes piaci konzultáció"
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "UNIVERZAL_torteneti.png",
+    "title": "UNIVERZAL – Eredmény, módosítás és ismeretlen típus",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "Eljárás típusa"
+    ],
+    "rows": [
+      [
+        "1.",
+        "Fiktív Biztonsági Központ",
+        "Tűzfalak beszerzése – az eljárás eredménye",
+        "",
+        "Eredményhirdetés"
+      ],
+      [
+        "2.",
+        "Fiktív Hálózati Intézet",
+        "LAN-karbantartási szerződés módosítása",
+        "",
+        "Szerződésmódosítás"
+      ],
+      [
+        "3.",
+        "Fiktív Kutatóintézet",
+        "Infrastruktúra-fejlesztési elképzelés",
+        "",
+        ""
+      ]
+    ],
+    "partial": false
+  },
+  {
+    "filename": "IDPR_aktiv_hianyos.png",
+    "title": "IDPR – Aktív felhívások / versenyújranyitások",
+    "headers": [
+      "Sorszám",
+      "Ajánlatkérő",
+      "Ajánlatkérő nevében eljár",
+      "Tárgy",
+      "Ajánlattételi határidő",
+      "KM",
+      "Eljárás típusa",
+      "Becsült érték",
+      "Számlakiállító szállító",
+      "Státusz",
+      "Megjegyzés"
+    ],
+    "rows": [
+      [
+        "1.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Fiktív Központi Beszerző",
+        "Aktív hálózati eszközök és LAN-infrastruktúra bővítése",
+        "2026-11-12 10:00",
+        "DKM-TESZT-2026",
+        "Versenyújranyitás",
+        "48000000",
+        "",
+        "",
+        "FIKTÍV TESZTADAT – nem valódi hirdetmény"
+      ],
+      [
+        "2.",
+        "Fiktív Biztonsági Központ",
+        "Fiktív Központi Beszerző",
+        "Vállalati tűzfalak és biztonsági licencek",
+        "2026-11-16 12:00",
+        "DKM-TESZT-2026",
+        "Nyílt eljárás",
+        "22500000",
+        "",
+        "",
+        "FIKTÍV TESZTADAT – nem valódi hirdetmény"
+      ],
+      [
+        "3.",
+        "TESZT Nemzeti Adó- és Vámhivatal",
+        "Fiktív Központi Beszerző",
+        "Tervezett vállalati switching-korszerűsítés",
+        "2026-11-05 10:00",
+        "DKM-TESZT-2026",
+        "indikatív",
+        "",
+        "",
+        "",
+        "FIKTÍV TESZTADAT – nem valódi hirdetmény"
+      ]
+    ],
+    "partial": true
+  }
+]

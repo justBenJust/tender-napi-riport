@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+input/
+output/
+dist/
+report_output/
+*tender_input*.json
+*assessments*.json
+EKR*.csv
+EKR*.xlsx
+references/company_profile.private.md
+.VSCodeCounter/

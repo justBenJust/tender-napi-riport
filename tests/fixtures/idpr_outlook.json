@@ -1,0 +1,48 @@
+{
+  "status": "partial",
+  "metadata": {
+    "collection_channel": "outlook_connector",
+    "mailbox": "tender-fiok@example.org",
+    "folder": "Tender/IDPR",
+    "search_window": {
+      "start": "2026-10-29T10:00:00+01:00",
+      "end": "2026-10-30T10:00:00+01:00",
+      "timezone": "Europe/Budapest"
+    },
+    "messages_read": 1,
+    "coverage": "selected_scope_only"
+  },
+  "records": [{
+    "id": "FIKTIV-IDPR-001",
+    "buyer": "Fiktív intézmény",
+    "buyer_on_behalf": "Fiktív Központi Beszerző",
+    "title": "Vállalati hálózati eszközök beszerzése",
+    "description": "Switchek szállítása és konfigurálása.",
+    "notice_type": "Ajánlati felhívás",
+    "procedure_type": "Versenyújranyitás",
+    "procedure_status": "",
+    "submission_deadline": "2026-11-12 10:00",
+    "deadline_time": "10:00",
+    "performance_deadline": "2027-02-28",
+    "publication_date": "",
+    "value": "48000000",
+    "currency": "HUF",
+    "value_kind": "becsült érték",
+    "framework": "FIKTIV-KM-01",
+    "url": "https://example.org/fictional/idpr/001",
+    "source_metadata": {
+      "collection_channel": "outlook_connector",
+      "email_item_index": 1,
+      "email": {
+        "message_id": "fiktiv-email-001",
+        "mailbox": "tender-fiok@example.org",
+        "folder": "Tender/IDPR",
+        "sender": "ertesito@example.org",
+        "subject": "FIKTÍV IDPR versenyújranyitás",
+        "received_at": "2026-10-30T08:15:00+01:00",
+        "message_url": ""
+      }
+    }
+  }],
+  "warnings": ["Fiktív tesztadat. A levél nem közöl tender-közzétételi dátumot."]
+}

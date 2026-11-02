@@ -1,0 +1,8 @@
+{
+  ".csv": 10,
+  ".xlsx": 8,
+  ".docx": 9,
+  "watchlist_xlsx": 1,
+  "png": 22,
+  "zip_exclusion": "verified_current_and_fresh_build"
+}
